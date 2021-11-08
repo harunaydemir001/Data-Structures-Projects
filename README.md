@@ -1,2 +1,2 @@
-# Data Structures Projects
+Üniversitemizde veri yapıları dersinde verilen projelerdir. 
  
